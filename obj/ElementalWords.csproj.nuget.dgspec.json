@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tomgo\\source\\repos\\ElementalWords\\ElementalWords.csproj": {}
+    "C:\\Users\\tomgo\\source\\repos\\Test\\ElementalWords\\ElementalWords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tomgo\\source\\repos\\ElementalWords\\ElementalWords.csproj": {
+    "C:\\Users\\tomgo\\source\\repos\\Test\\ElementalWords\\ElementalWords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomgo\\source\\repos\\ElementalWords\\ElementalWords.csproj",
+        "projectUniqueName": "C:\\Users\\tomgo\\source\\repos\\Test\\ElementalWords\\ElementalWords.csproj",
         "projectName": "ElementalWords",
-        "projectPath": "C:\\Users\\tomgo\\source\\repos\\ElementalWords\\ElementalWords.csproj",
+        "projectPath": "C:\\Users\\tomgo\\source\\repos\\Test\\ElementalWords\\ElementalWords.csproj",
         "packagesPath": "C:\\Users\\tomgo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomgo\\source\\repos\\ElementalWords\\obj\\",
+        "outputPath": "C:\\Users\\tomgo\\source\\repos\\Test\\ElementalWords\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tomgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
