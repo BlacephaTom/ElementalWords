@@ -1,0 +1,14 @@
+C:\Users\tomgo\source\repos\ElementalWords\bin\Debug\net8.0\ElementalWords.exe
+C:\Users\tomgo\source\repos\ElementalWords\bin\Debug\net8.0\ElementalWords.deps.json
+C:\Users\tomgo\source\repos\ElementalWords\bin\Debug\net8.0\ElementalWords.runtimeconfig.json
+C:\Users\tomgo\source\repos\ElementalWords\bin\Debug\net8.0\ElementalWords.dll
+C:\Users\tomgo\source\repos\ElementalWords\bin\Debug\net8.0\ElementalWords.pdb
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\ElementalWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\ElementalWords.AssemblyInfoInputs.cache
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\ElementalWords.AssemblyInfo.cs
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\ElementalWords.csproj.CoreCompileInputs.cache
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\ElementalWords.dll
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\refint\ElementalWords.dll
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\ElementalWords.pdb
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\ElementalWords.genruntimeconfig.cache
+C:\Users\tomgo\source\repos\ElementalWords\obj\Debug\net8.0\ref\ElementalWords.dll
