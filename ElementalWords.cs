@@ -64,7 +64,7 @@ namespace ElementalWords
                 for (int i = 1; i <= maxPossibleCharacterLimit; i++)
                 {
                     // if we will be taken outside the bounds of the word
-                    // in a 5 letter word, there is no point sarting on letter 4 and looking for 2 characters
+                    // in a 5 letter word, there is no point starting on letter 4 and looking for 2 characters
                     if (startIndex + i > word.Length)
                     {
                         continue;
